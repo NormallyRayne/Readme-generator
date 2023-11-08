@@ -39,18 +39,14 @@
   ## Features
   
   If your project has a lot of features, list them here.
-
-  <ul>
-  
   
   ## Contribution
   
-  [GitHub](https://github.com/NormallyRayne)
-
+GitHub - Github.com/NormallyRayne
   
   ## Tests  
 
-  N/A
+  undefined
 
   ## Questions
 
@@ -59,8 +55,3 @@
   <li> <a href="mailto:Contact.RickCollett@protonmail.com">Email</a> </li>
   </ul>
 
-  ## In action!
-
-  [YouTube video](https://www.youtube.com/watch?v=MKpiOGmgE60)
-  
-  ![image](./assets/images/Screenshot%202023-11-08%20at%204.55.33 PM.png)git

@@ -106,7 +106,7 @@ ${data.contribution}
 
   <ul>
   <li> <a href="https://github.com/${data.username}">GitHub Profile</a> </li>
-  <li> <a href="mailto:${data.email}>Email</a> </li>
+  <li> <a href="mailto:${data.email}">Email</a> </li>
   </ul>
 
 `;
