@@ -17,7 +17,7 @@
   
   ## Installation
   
-  Use Terminal and the command "node index.js"
+  Use Terminal and the command ```node index.js```
 
   ## Usage
   
@@ -49,7 +49,6 @@
 
   
   ## Tests  
-
   N/A
 
   ## Questions
