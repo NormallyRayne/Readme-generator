@@ -62,4 +62,4 @@
 
   [YouTube video](https://www.youtube.com/watch?v=MKpiOGmgE60)
   
-  ![image](./assets/images/Screenshot%202023-11-08%20at%204.55.33 PM.png)git
+  ![image](./assets/images/Screenshot%202023-11-08%20at%204.55.33 PM.png)
